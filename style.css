@@ -176,6 +176,8 @@
     box-shadow: 0 0 3px rgba(0,0,0,0.2);
 }
 video {
+    width: 549px;
+    height: 327px;
     position: absolute;
     float: left;
     background-image: url(./assets/images/background\ video\ yellow.svg)
