@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 408 38" width="408" height="38">
+	<defs>
+		<image width="408" height="38" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZgAAAAmCAYAAAD5jI3kAAACpElEQVR4Xu3cMW4TURAG4NkUTkABcREoKQL0HAE4AR3chhvAGWjoYim0VHQUiIaCBkc4JH7IQikSHGRLftp5z1/q1ezMN0/6ZW/WQ/gjQIAAAQIVBIYKNZUkQIAAAQIhYBwCAgQIEKgiIGCqsCpKgAABAgLGGSBAgACBKgICpgqrogQIECAgYJwBAgQIEKgiIGCqsCpKgAABAgLGGSBAgACBKgICpgqrogQIECAgYJwBAgQIEKgiIGCqsCpKgAABAisD5nQ6eV7K3uuIcj8ibmEi0JpAGeJpaz3rl0CrAqUMv4dh8f384uzrvSfx43KOfwJmNt1/EyVetjqovgksBQSMc0BgHIHFIr7cfTz/vLz7lYA5PZ48KzG8G6ctdyWwPQEBsz1LlQhsKnB+Mf+4/CRzJWBmxwcnEeXhpsVcTyCbgIDJthH97JZA+XZ4dPbpWsDszyLi9m5BmLZHAQHT41bN1IrA8pnMnUe/PlwPmNLKAPok8D8BAeN8EBhX4PBo/l7AjLsDd68kIGAqwSpLYE2BVQHjK7I18VyWW0DA5N6P7voWuOErMg/5+1777kwnYHZn1ybNKLDiIf/fFyyHtxnb1ROBTQQEzCZariWwXYGV/6a8vIUXLbcLrdo4AgJmHHd3JXDji5aXND+nkxdD2XsVUR5ExAEyAq0JCJjWNqbflgXW/qmYlofUOwECBAjkEfBrynl2oRMCBAh0JSBgulqnYQgQIJBHQMDk2YVOCBAg0JWAgOlqnYYhQIBAHgEBk2cXOiFAgEBXAgKmq3UahgABAnkEBEyeXeiEAAECXQkImK7WaRgCBAjkERAweXahEwIECHQlIGC6WqdhCBAgkEdAwOTZhU4IECDQlYCA6WqdhiFAgEAeAQGTZxc6IUCAQFcCfwBiNHonlsWWTAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="bnner+header">
+		<g id="player">
+			<use id="Layer 14" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+		</g>
+	</g>
+</svg>
